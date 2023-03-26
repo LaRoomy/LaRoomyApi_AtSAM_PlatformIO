@@ -1,2 +1,2 @@
-# LaRoomyApi_AtSAM_pio_lib
+# LaRoomyApi_AtSAM_PlatformIO
  Atmel SAM remote framework to interact with the LaRoomy App
