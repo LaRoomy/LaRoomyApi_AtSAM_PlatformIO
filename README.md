@@ -63,6 +63,11 @@ LaRoomyApi.begin();
 **NOTE:** This library depends on the [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) and the [FlashStorage](https://github.com/cmaglie/FlashStorage) library which must be also installed (if it isn't done automatically)
 
 
+## Examples
+
+A detailed description of the examples with test schematics can be found [here](https://github.com/LaRoomy/LaRoomyAPI_Remote_Examples).
+
+
 ## Further Information
 
 [Click here for detailed instructions on how to use the LaRoomyApi.](https://api.laroomy.com/p/laroomy-api-class.html)
